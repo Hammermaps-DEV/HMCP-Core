@@ -1,6 +1,6 @@
 <?php
 /*
- * Diese Datei ist Teil von HM-Kernel.
+ * Diese Datei ist Teil von HM-Core-Module.
  *
  * HM-Kernel ist Freie Software: Sie können es unter den Bedingungen
  * der GNU General Public License, wie von der Free Software Foundation,

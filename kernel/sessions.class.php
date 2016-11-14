@@ -15,6 +15,7 @@
  * Sie sollten eine Kopie der GNU General Public License zusammen mit diesem
  * Programm erhalten haben. Wenn nicht, siehe <http://www.gnu.org/licenses/>.
  */
+
 /* block attempts to directly run this script */
 if (getcwd() == dirname(__FILE__)) {
     die('block directly run');
