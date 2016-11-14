@@ -1,0 +1,5 @@
+hmcp-core.sql
+config/system/database.ini
+config/system/encrypt.key
+kernel/error.run
+*.log

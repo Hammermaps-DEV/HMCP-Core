@@ -1,0 +1,42 @@
+{
+    "name": "kelunik/acme",
+    "description": "ACME library written in PHP.",
+    "keywords": [
+        "ACME",
+        "letsencrypt",
+        "certificate",
+        "https",
+        "encryption",
+        "ssl",
+        "tls"
+    ],
+    "require": {
+        "amphp/artax": "^2",
+        "namshi/jose": "^6",
+        "sabre/uri": "^1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Niklas Keller",
+            "email": "me@kelunik.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Kelunik\\Acme\\": "lib"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.3-dev"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5",
+        "fabpot/php-cs-fixer": "^1.9",
+        "phpdocumentor/phpdocumentor": "^2"
+    }
+}

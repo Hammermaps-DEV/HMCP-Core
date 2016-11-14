@@ -1,0 +1,19 @@
+{
+    "name": "zip-factory/zip-factory",
+    "type": "library",
+    "description": "Factory class that creates either ZipArchive or PclZip PHP 5.2.17 and up",
+    "keywords": ["ziparchive", "zip", "zipfactory"],
+    "homepage": "http://github.com/yani-/zip-factory",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yani Iliev",
+            "email": "yani@iliev.me",
+            "homepage": "https://yani.iliev.me",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    }
+}

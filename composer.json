@@ -1,0 +1,26 @@
+{
+    "name": "vendor/kernel-0-0-1",
+    "description": "Description of project Kernel-0.0.1.",
+    "authors": [
+        {
+            "name": "Lucas",
+            "email": "support@hammermaps.de"
+        }
+    ],
+    "require": {
+        "mrclay/minify": "2.2.1",
+        "wixel/gump": "1.3",
+        "smarty/smarty": "v3.1.29",
+        "snoopy/snoopy": "2.0",
+        "zip-factory/zip-factory": "1.5.0",
+        "defuse/php-encryption": "v1.2.1",
+        "altorouter/altorouter": "v1.1.0",
+        "00f100/uuid": "4.0.0",
+        "phpmailer/phpmailer": "v6.0.0rc2",
+        "phpfastcache/phpfastcache": "5.0.8",
+        "monolog/monolog": "1.21.0",
+        "html2text/html2text": "4.0.1",
+        "kelunik/acme": "v0.3.3",
+        "austinb/gameq": "3.0.0-alpha2"
+    }
+}

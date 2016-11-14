@@ -1,0 +1,4 @@
+@ECHO OFF
+setlocal DISABLEDELAYEDEXPANSION
+SET BIN_TARGET=%~dp0/../00f100/uuid/bin/uuid
+php "%BIN_TARGET%" %*

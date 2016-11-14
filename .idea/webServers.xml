@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bce899be-753c-43c4-bf63-630ebd90f205" name="Local" url="http://localhost/hmcp-core/">
+        <fileTransfer port="0" mountedRoot="C:\Program Files (x86)\Zend\Apache24\htdocs\hmcp-core" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
